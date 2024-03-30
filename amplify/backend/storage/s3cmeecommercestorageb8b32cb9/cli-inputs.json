@@ -1,0 +1,16 @@
+{
+  "resourceName": "s3cmeecommercestorageb8b32cb9",
+  "bucketName": "cme-ecommerce-storage-b8b32cb9",
+  "policyUUID": "a692709a",
+  "storageAccess": "authAndGuest",
+  "guestAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "authAccess": [
+    "DELETE",
+    "READ",
+    "CREATE_AND_UPDATE"
+  ]
+}

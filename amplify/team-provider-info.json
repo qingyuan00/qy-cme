@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-cmeecommerce-staging-170547-authRole",
+      "UnauthRoleArn": "arn:aws:iam::654654209400:role/amplify-cmeecommerce-staging-170547-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::654654209400:role/amplify-cmeecommerce-staging-170547-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-cmeecommerce-staging-170547-deployment",
+      "UnauthRoleName": "amplify-cmeecommerce-staging-170547-unauthRole",
+      "StackName": "amplify-cmeecommerce-staging-170547",
+      "StackId": "arn:aws:cloudformation:us-east-1:654654209400:stack/amplify-cmeecommerce-staging-170547/96a773e0-edee-11ee-8dca-129afdf22bf3",
+      "AmplifyAppId": "d16bbzwk2kh9uj"
+    },
+    "categories": {
+      "auth": {
+        "cmeecommerce": {}
+      }
+    }
+  }
+}
